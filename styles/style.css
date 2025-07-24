@@ -2,8 +2,7 @@ body {
   margin: 0;
   font-family: monospace;
   background: url('../images/camo.jpg');
-  color: #fff;
-  background-size: cover;
+  color: #000;
 }
 
 header {
