@@ -1,0 +1,18 @@
+{
+  "rifles": [
+    { "name": "AK-47", "price": "700", "image": "ak47.png" },
+    { "name": "M4A1", "price": "850", "image": "m4a1.png" }
+  ],
+  "pistols": [
+    { "name": "Desert Eagle", "price": "500", "image": "deagle.png" },
+    { "name": "Glock 17", "price": "300", "image": "glock17.png" }
+  ],
+  "snipers": [
+    { "name": "AWP", "price": "1200", "image": "awp.png" },
+    { "name": "Barrett M82", "price": "2500", "image": "barrett.png" }
+  ],
+  "heavy": [
+    { "name": "RPG-7", "price": "1500", "image": "rpg7.png" },
+    { "name": "M249 SAW", "price": "1800", "image": "m249.png" }
+  ]
+}
