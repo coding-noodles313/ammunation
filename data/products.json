@@ -1,7 +1,8 @@
 {
   "rifles": [
     { "name": "AK-47", "price": "700", "image": "aps-ak-47-madera.jpg" },
-    { "name": "M4A1", "price": "850", "image": "m4a1-colt.jpg" }
+    { "name": "M4A1", "price": "850", "image": "m4a1-colt.jpg" }, 
+    { "name": "FN Scar", "price": "1200", "image": "scar.jpg" } 
   ],
   "pistols": [
     { "name": "Desert Eagle", "price": "500", "image": "p_sub1_130322112553.jpg" },
