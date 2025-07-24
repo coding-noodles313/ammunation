@@ -1,15 +1,15 @@
 {
   "rifles": [
-    { "name": "AK-47", "price": "700", "image": "ak47.png" },
-    { "name": "M4A1", "price": "850", "image": "m4a1.png" }
+    { "name": "AK-47", "price": "700", "image": "aps-ak-47-madera.jpg" },
+    { "name": "M4A1", "price": "850", "image": "m4a1-colt.jpg" }
   ],
   "pistols": [
-    { "name": "Desert Eagle", "price": "500", "image": "deagle.png" },
-    { "name": "Glock 17", "price": "300", "image": "glock17.png" }
+    { "name": "Desert Eagle", "price": "500", "image": "p_sub1_130322112553.jpg" },
+    { "name": "Glock 17", "price": "300", "image": "513092_glock17gen3pistol_hero_1200x800.jpg" }
   ],
   "snipers": [
-    { "name": "AWP", "price": "1200", "image": "awp.png" },
-    { "name": "Barrett M82", "price": "2500", "image": "barrett.png" }
+    { "name": "AWP", "price": "1200", "image": "51ZsPlGIzcL._UF1000,1000_QL80_.jpg" },
+    { "name": "Barrett M82", "price": "2500", "image": "Barrett-M82A1-Independence-Day-2017-IZE-048-white.jpg" }
   ],
   "heavy": [
     { "name": "RPG-7", "price": "1500", "image": "rpg7.png" },
